@@ -10,7 +10,7 @@ El proyecto se estructura de la siguiente manera:
 1. Abrir PowerShell.
 2. Poner el siguiente comando:
  ```python
-Set-ExecutionPolicy
+Set-ExecutionPolicy Unrestricted
   ```
 3. Darle la opcion si a todo.
    
