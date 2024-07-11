@@ -1,4 +1,4 @@
-### Machine Learning Cs GO
+### Machine Learning CS
 ## Instrucciones para Iniciar
 ### Clonar el Repositorio
 Abre la terminal o el símbolo del sistema y navega al directorio donde deseas clonar el repositorio. Luego, ejecuta el siguiente comando para clonar el repositorio desde Git:
